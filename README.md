@@ -13,8 +13,8 @@
 
 ## Связанные задачи
 
-[Pirate Treasures does not complete startup in Firefox](https://github.com/Dubinetsky/tapclap/issues/1)
-[Game freezes during level transition: board remains visible and input becomes unresponsive](https://github.com/Dubinetsky/tapclap/issues/2)
+- [Pirate Treasures does not complete startup in Firefox](https://github.com/Dubinetsky/tapclap/issues/1)
+- [Game freezes during level transition: board remains visible and input becomes unresponsive](https://github.com/Dubinetsky/tapclap/issues/2)
 
 Дополнительные ссылки можно добавить сюда после окончательного подтверждения их номеров.
 
