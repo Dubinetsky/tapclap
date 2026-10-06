@@ -1,0 +1,24 @@
+# PDF build intermediates
+/*.aux
+/*.log
+/*.tex
+/*.out
+/*.toc
+/*.xdv
+/*.fls
+/*.fdb_latexmk
+/*.synctex.gz
+
+# Temporary files
+/*.tmp
+/*.temp
+/*~
+/~$*
+
+# Download temporary files
+/brand/assets/*.download
+
+# Optional output directories
+/build/
+/dist/
+/out/
