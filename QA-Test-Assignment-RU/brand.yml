@@ -1,0 +1,28 @@
+---
+# Article-local TAPCLAP presentation profile.
+# Official logo source used by the build script:
+# https://tapclap.com/img/logo.png
+
+zg_brand_journal_name: "TAPCLAP"
+zg_brand_issn: ""
+zg_brand_eissn: ""
+zg_brand_url: "https://tapclap.com/"
+
+zg_brand_logo: "logo.png"
+zg_brand_required_asset_files:
+  - "logo.png"
+
+# TAPCLAP orange from the public brand palette.
+zg_brand_primary_color: "E65C00"
+
+zg_brand_abstract_bg_gray: "0.96"
+zg_brand_code_bg_gray: "0.975"
+zg_brand_quote_bg_gray: "0.99"
+zg_brand_quote_frame_gray: "0.72"
+
+zg_brand_header_left_text: "TAPCLAP · QA Test Assignment"
+
+# Keep the template's project-local fonts for deterministic Cyrillic output.
+zg_brand_font_sans: "IBM Plex Sans"
+zg_brand_font_serif: "Gentium"
+---
