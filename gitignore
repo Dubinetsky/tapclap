@@ -1,0 +1,31 @@
+# ------------------------------------------------------------
+# TAPCLAP QA document build artifacts
+# ------------------------------------------------------------
+
+# Build logs
+/build.log
+/*.log
+
+# LaTeX / XeLaTeX intermediate files
+/*.aux
+/*.out
+/*.toc
+/*.xdv
+/*.fls
+/*.fdb_latexmk
+/*.synctex.gz
+/*.tex
+
+# Temporary files
+/*.tmp
+/*.temp
+/*~
+/~$*
+
+# Temporary downloaded assets
+/brand/assets/*.download
+
+# Optional build/output directories
+/build/
+/dist/
+/out/
